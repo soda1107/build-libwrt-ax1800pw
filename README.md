@@ -18,7 +18,7 @@
 
 ### 固件
 
-- [immortalwrt/ImmortalWrt](https://github.com/immortalwrt/immortalwrt)
+- [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt)
 - [LiBwrt-op/openwrt-6.x](https://github.com/LiBwrt-op/openwrt-6.x)
 
 
