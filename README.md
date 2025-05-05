@@ -30,4 +30,4 @@
 
 ## 固件下载
 
-参见[仓库Release](https://github.com/cv2wx/libwrt-ipq-build/releases)
+参见[仓库Release](https://github.com/cv2wx/build-libwrt-4ipq/releases)
